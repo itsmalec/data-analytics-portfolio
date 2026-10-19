@@ -1,0 +1,9 @@
+   # OS junk
+   .DS_Store
+   Thumbs.db
+
+   # Temp exports
+   *.tmp
+   ~$*
+
+   # Keep data files small — see note in Part 7 about large data
